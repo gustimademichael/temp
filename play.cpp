@@ -1,6 +1,6 @@
 #include <ncurses/curses.h>
 #include <cstdlib>
-#include <ctime>
+//#include <ctime>
 
 void play() {
 
