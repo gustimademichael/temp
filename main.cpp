@@ -1,5 +1,3 @@
-#include <ncurses/curses.h>
-#include <cstdlib>
 #include "menu.cpp"
 #include "about.cpp"
 #include "play.cpp"

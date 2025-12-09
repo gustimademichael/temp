@@ -1,5 +1,5 @@
 #include <ncurses/curses.h>
-#include <cstdlib>
+
 
 int menu() {
 
